@@ -1,37 +1,27 @@
 # 裁员潮应对法律保险系列
 
-#### 介绍
+## 介绍
 裁员潮应对劳动法法律总结，五险一金保险全面掌握系列
 
-#### 软件架构
-软件架构说明
+## [认知热爱生活，裁员潮应对（法律保险）](https://zhuanlan.zhihu.com/p/717199536)
+
+## 法律系列
+
+1. [【裁员潮系列1】《劳动法》解除合同关键条款总结](https://zhuanlan.zhihu.com/p/717198388)
+2. [【裁员潮系列2】失业金领取常见问题指南（一目了然~脑图版）](https://zhuanlan.zhihu.com/p/718355818)
+3. [【专利法】实施细则学习总结（脑图版）](https://zhuanlan.zhihu.com/p/718588345)
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 保险
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1. [【保险系列】商业养老金的分类如何购买](https://zhuanlan.zhihu.com/p/717275980)
+2. [【保险系列】“五险一金”之‘工伤保险’全部条例速览（脑图学习总结）](https://zhuanlan.zhihu.com/p/718438292)
+3. [【保险系列】“五险一金”之‘失业保险’全部条例速览（脑图学习总结）](https://zhuanlan.zhihu.com/p/718551638)
+4. [【保险系列】“五险一金”之‘生育保险’全部条例速览（脑图学习总结）](https://zhuanlan.zhihu.com/p/718615882)
+5. [【保险系列】“五险一金”之‘基本养老保险’全部条例速览（脑图学习总结）](https://zhuanlan.zhihu.com/p/718631264)
+6. [【保险系列】城乡居民基本医疗保险&&大病保险全部实施办法速览（脑图学习总结）（河北石家庄示例）](https://zhuanlan.zhihu.com/p/718646628)
+7. [【保险系列】城镇职工基本医疗保险&&大病保险&&公务员医疗补助&&企业补充医疗保险 全部实施办法速览（脑图学习总结）（河北石家庄示例）](https://zhuanlan.zhihu.com/p/718736711)
+8. [【保险系列】企业年金办法全部条例速览（脑图学习总结）](https://zhuanlan.zhihu.com/p/718932706)
+9. [【保险系列】养老保险常见问题快问快答(脑图学习总结)](https://zhuanlan.zhihu.com/p/718947868)
+10. [【保险系列】《渐进式延迟法定退休年龄的决定》脑图学习总结](https://zhuanlan.zhihu.com/p/719980812)
